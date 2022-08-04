@@ -29,7 +29,7 @@ export default function Footer({ links }) {
 
               <Col md={4}>
                 <h6 className="text-dark mb-3">Our Address</h6>
-                <p className="text-muted f-14">1234 Lorem Ipsum, 12345</p>
+                <p className="text-muted f-14">1234 Lorem Ipsum, 123456</p>
                 <ul className="list-unstyled footer-social-list mt-4">
                   <li className="list-inline-item">
                     <a href="src/app/components/Footer#">
