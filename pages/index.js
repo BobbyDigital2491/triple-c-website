@@ -46,6 +46,7 @@ export default function LandingPage({ subscription }) {
             <Col lg={6} md={8}>
               <div className="title text-center mb-5">
                 <h3 className="font-weight-normal text-dark">
+                  <br/>
                   <span className="text-warning">All landing pages</span>
                 </h3>
                 {landings &&
