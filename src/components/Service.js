@@ -15,7 +15,7 @@ export default function Service({ service }) {
           <p className="text-muted mb-3 f-15">{service.text}</p>
           <Link href={service.ctaLink}>
             <a className="f-16 text-warning">
-              Try It Now <span className="right-icon ml-2">&#8594;</span>
+              Learn More <span className="right-icon ml-2">&#8594;</span>
             </a>
           </Link>
         </div>
@@ -29,7 +29,7 @@ export default function Service({ service }) {
           <p className="text-muted mb-3 f-15">{service.text}</p>
           <Link href={service.ctaLink}>
             <a className="f-16 text-warning">
-              Try It Now <span className="right-icon ml-2">&#8594;</span>
+              Learn More <span className="right-icon ml-2">&#8594;</span>
             </a>
           </Link>
         </div>
