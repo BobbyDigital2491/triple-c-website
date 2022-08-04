@@ -47,7 +47,7 @@ export default function LandingPage({ subscription }) {
               <div className="title text-center mb-5">
                 <h3 className="font-weight-normal text-dark">
                   <br/>
-                  <span className="text-warning">All landing pages</span>
+                  <span className="text-warning">Welcome To</span>
                 </h3>
                 {landings &&
                   landings.map(({ slug, heroTitle }) => {
