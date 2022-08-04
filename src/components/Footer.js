@@ -8,8 +8,8 @@ export default function Footer({ links }) {
         <Row>
           <Col lg={4}>
             <div className="mb-4">
-              <p className="text-muted mt-4 mb-2">your-email@email.com</p>
-              <h6 className="text-muted font-weight-normal">+1 555-2368</h6>
+              <p className="text-muted mt-4 mb-2">CarolinaCryptoCollab@gmail.com</p>
+              
             </div>
           </Col>
           <Col lg={8}>
