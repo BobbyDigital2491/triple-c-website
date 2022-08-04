@@ -6,7 +6,7 @@ export default function Header() {
     <div className={"header"}>
       <Navbar bf={"light"} expand="md">
         <Container>
-          <Navbar.Brand href="#">Your Logo</Navbar.Brand>
+          <Navbar.Brand href="#">Carolina Crypto Collab</Navbar.Brand>
           <Navbar.Toggle />
           <Navbar.Collapse>
             <Nav className="m-auto">
