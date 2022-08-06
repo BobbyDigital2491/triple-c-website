@@ -55,7 +55,7 @@ export default function LandingPage({ subscription }) {
                       <div key={slug}>
                         <Link href={`/landings/${slug}`}>
                           <a>{heroTitle}</a>
-                          <img href='Triple C Logo.JPG' /img>
+                          <img src='/Triple C Logo.JPG' /img>
                         </Link>
                       </div>
                     )
